@@ -1,0 +1,8 @@
+
+name="CarlosF"
+url="https://github.com/djpintado/carlosf/carlosf.zip?download=1"
+img="https://github.com/djpintado/carlosf/kodib.jpg"
+fanart="https://github.com/djpintado/carlosf/kodic.jpg"
+description="CarlosF"
+
+
